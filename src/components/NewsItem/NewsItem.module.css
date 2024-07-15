@@ -25,6 +25,6 @@
 	background-color: #f2f4f5;
 	background-position: center;
 	background-size: cover;
-	flex-shrink: 1;
+	flex-shrink: 0;
 }
 
